@@ -73,5 +73,10 @@
     1271190742911684638,
     1311362490575097997
   ],
-  "blacklistwords": []
+  "blacklistwords": [],
+  "merchant_durations": {
+    "Mari": 180,
+    "Jester": 180,
+    "Eden": 1800,
+  }
 }
