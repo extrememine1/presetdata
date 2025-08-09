@@ -76,13 +76,16 @@
   "blacklistwords": [],
   "merchants": {
     "Mari": {
-      "duration": 180
+      "duration": 180,
+      "color": 16687157
     },
     "Jester": {
-      "duration": 180
+      "duration": 180,
+      "color": 16711935
     },
     "Eden": {
-      "duration": 1800
+      "duration": 1800,
+      "color": 0
     }
   }
 }
